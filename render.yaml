@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: libretv
+    name: 简单在线
     runtime: node
     plan: free
     buildCommand: 'npm install'
