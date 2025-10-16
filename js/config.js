@@ -13,9 +13,9 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
+    name: '简单在线',
     url: 'https://libretv.is-an.org',
-    description: '免费在线视频搜索与观看平台',
+    description: '自由观影，畅享精彩',
     logo: 'image/logo.png',
     version: '1.0.3'
 };
